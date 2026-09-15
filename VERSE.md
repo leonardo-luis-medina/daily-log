@@ -48,3 +48,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **1 Kings 15:11**
 
 > Asa did what the Lord approved as his ancestor David had done.
+
+## 2026-09-15 22:41 UTC
+
+**Luke 13:15**
+
+> Then the Lord answered him, “You hypocrites! Does not each of you on the Sabbath untie his ox or his donkey from its stall and lead it to water?
