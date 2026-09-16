@@ -60,3 +60,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **John 16:13**
 
 > But when he, the Spirit of truth, comes, he will guide you into all truth. For he will not speak on his own authority, but will speak whatever he hears and will tell you what is to come.
+
+## 2026-09-16 07:10 UTC
+
+**James 3:15**
+
+> Such wisdom does not come from above but is earthly, natural, demonic.
