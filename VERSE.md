@@ -72,3 +72,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Hebrews 3:7**
 
 > Therefore, as the Holy Spirit says, “<b>Oh, that today you would listen as he speaks!</b>
+
+## 2026-09-17 09:10 UTC
+
+**Judges 3:17**
+
+> He brought the tribute payment to King Eglon of Moab. (Now Eglon was a very fat man.)
