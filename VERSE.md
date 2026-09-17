@@ -78,3 +78,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Judges 3:17**
 
 > He brought the tribute payment to King Eglon of Moab. (Now Eglon was a very fat man.)
+
+## 2026-09-17 14:38 UTC
+
+**Ezekiel 5:12**
+
+> A third of your people will die of plague or be overcome by the famine within you. A third of your people will fall by the sword surrounding you, and a third I will scatter to the winds. I will unleash a sword behind them.
