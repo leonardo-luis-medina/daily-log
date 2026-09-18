@@ -84,3 +84,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Ezekiel 5:12**
 
 > A third of your people will die of plague or be overcome by the famine within you. A third of your people will fall by the sword surrounding you, and a third I will scatter to the winds. I will unleash a sword behind them.
+
+## 2026-09-18 08:43 UTC
+
+**Joshua 4:11**
+
+> and when all the people had finished crossing, the ark of the Lord and the priests crossed as the people looked on.
