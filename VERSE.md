@@ -102,3 +102,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Jeremiah 51:37**
 
 > Babylon will become a heap of ruins. Jackals will make their home there. It will become an object of horror and of hissing scorn, a place where no one lives.
+
+## 2026-09-20 13:55 UTC
+
+**Joshua 15:54**
+
+> Humtah, Kiriath Arba (that is, Hebron), and Zior—a total of nine cities and their towns.
