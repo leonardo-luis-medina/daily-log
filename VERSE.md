@@ -108,3 +108,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Joshua 15:54**
 
 > Humtah, Kiriath Arba (that is, Hebron), and Zior—a total of nine cities and their towns.
+
+## 2026-09-20 20:16 UTC
+
+**Deuteronomy 28:42**
+
+> Whirring locusts will take over every tree and all the produce of your soil.
