@@ -96,3 +96,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Genesis 3:16**
 
 > To the woman he said, “I will greatly increase your labor pains; with pain you will give birth to children. You will want to control your husband, but he will dominate you.”
+
+## 2026-09-20 09:02 UTC
+
+**Jeremiah 51:37**
+
+> Babylon will become a heap of ruins. Jackals will make their home there. It will become an object of horror and of hissing scorn, a place where no one lives.
