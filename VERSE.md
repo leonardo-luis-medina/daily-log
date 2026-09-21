@@ -114,3 +114,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Deuteronomy 28:42**
 
 > Whirring locusts will take over every tree and all the produce of your soil.
+
+## 2026-09-21 11:55 UTC
+
+**Leviticus 13:13**
+
+> the priest must then examine it, and if the disease covers his whole body, he is to pronounce the person with the infection clean. He has turned all white, so he is clean.
