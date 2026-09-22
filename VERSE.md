@@ -120,3 +120,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Leviticus 13:13**
 
 > the priest must then examine it, and if the disease covers his whole body, he is to pronounce the person with the infection clean. He has turned all white, so he is clean.
+
+## 2026-09-22 05:49 UTC
+
+**Ezekiel 22:8**
+
+> You have despised my holy things and desecrated my Sabbaths!
