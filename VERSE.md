@@ -132,3 +132,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Judges 7:13**
 
 > When Gideon arrived, he heard a man telling another man about a dream he had. The man said, “Look! I had a dream. I saw a stale cake of barley bread rolling into the Midianite camp. It hit a tent so hard it knocked it over and turned it upside down. The tent just collapsed.”
+
+## 2026-09-24 18:08 UTC
+
+**1 Kings 17:10**
+
+> So he got up and went to Zarephath. When he went through the city gate, there was a widow gathering wood. He called out to her, “Please give me a little water in a cup, so I can take a drink.”
