@@ -126,3 +126,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Ezekiel 22:8**
 
 > You have despised my holy things and desecrated my Sabbaths!
+
+## 2026-09-24 01:01 UTC
+
+**Judges 7:13**
+
+> When Gideon arrived, he heard a man telling another man about a dream he had. The man said, “Look! I had a dream. I saw a stale cake of barley bread rolling into the Midianite camp. It hit a tent so hard it knocked it over and turned it upside down. The tent just collapsed.”
