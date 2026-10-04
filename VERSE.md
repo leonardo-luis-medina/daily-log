@@ -204,3 +204,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Nahum 1:2**
 
 > The Lord is a zealous and avenging God; the Lord is avenging and very angry. The Lord takes vengeance against his foes; he sustains his rage against his enemies.
+
+## 2026-10-04 09:18 UTC
+
+**Leviticus 6:27**
+
+> Anyone who touches its meat must be holy, and whoever spatters some of its blood on a garment must wash whatever he spatters it on in a holy place.
