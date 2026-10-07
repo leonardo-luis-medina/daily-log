@@ -228,3 +228,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Mark 8:29**
 
 > He asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.”
+
+## 2026-10-07 22:38 UTC
+
+**2 Chronicles 25:23**
+
+> King Joash of Israel captured King Amaziah of Judah, son of Joash son of Jehoahaz, in Beth Shemesh and brought him to Jerusalem. He broke down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate—a distance of about 600 feet.
