@@ -240,3 +240,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Mark 11:19**
 
 > When evening came, Jesus and his disciples went out of the city.
+
+## 2026-10-09 09:59 UTC
+
+**1 Samuel 15:15**
+
+> Saul said, “They were brought from the Amalekites; the army spared the best of the flocks and cattle to sacrifice to the Lord our God. But everything else we slaughtered.”
