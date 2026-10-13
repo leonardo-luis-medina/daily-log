@@ -270,3 +270,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Psalms 59:3**
 
 > For look, they wait to ambush me; powerful men stalk me, but not because I have rebelled or sinned, O Lord.
+
+## 2026-10-13 13:30 UTC
+
+**Ezekiel 45:23**
+
+> And during the seven days of the feast he will provide as a burnt offering to the Lord seven bulls and seven rams, all without blemish, on each of the seven days, and a male goat daily for a sin offering.
