@@ -294,3 +294,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Isaiah 9:9**
 
 > All the people were aware of it, the people of Ephraim and those living in Samaria. Yet with pride and an arrogant attitude, they said,
+
+## 2026-10-16 00:03 UTC
+
+**Leviticus 22:12**
+
+> If a priest’s daughter marries a lay person, she may not eat the holy contribution offerings,
