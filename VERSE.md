@@ -348,3 +348,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **2 Chronicles 24:2**
 
 > Joash did what the Lord approved throughout the lifetime of Jehoiada the priest.
+
+## 2026-10-23 23:45 UTC
+
+**John 9:36**
+
+> The man replied, “And who is he, sir, that I may believe in him?”
