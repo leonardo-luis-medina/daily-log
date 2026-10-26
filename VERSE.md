@@ -372,3 +372,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Psalms 121:6**
 
 > The sun will not harm you by day, or the moon by night.
+
+## 2026-10-26 16:27 UTC
+
+**Deuteronomy 11:3**
+
+> They did not see the awesome deeds he performed in the midst of Egypt against Pharaoh king of Egypt and his whole land,
