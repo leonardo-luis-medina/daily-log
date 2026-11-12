@@ -426,3 +426,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Psalms 149:4**
 
 > For the Lord takes delight in his people; he exalts the oppressed by delivering them.
+
+## 2026-11-12 23:10 UTC
+
+**Ezekiel 17:2**
+
+> “Son of man, offer a riddle and tell a parable to the house of Israel.
