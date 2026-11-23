@@ -486,3 +486,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Ezekiel 16:27**
 
 > So see here, I have stretched out my hand against you and cut off your rations. I have delivered you into the power of those who hate you, the daughters of the Philistines, who were ashamed of your obscene conduct.
+
+## 2026-11-23 17:18 UTC
+
+**Exodus 16:11**
+
+> and the Lord spoke to Moses,
