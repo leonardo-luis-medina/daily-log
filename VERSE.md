@@ -498,3 +498,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Luke 12:15**
 
 > Then he said to them, “Watch out and guard yourself from all types of greed because one’s life does not consist in the abundance of his possessions.”
+
+## 2026-11-24 14:30 UTC
+
+**Numbers 15:28**
+
+> And the priest must make atonement for the person who sins unintentionally—when he sins unintentionally before the Lord—to make atonement for him, and he will be forgiven.
