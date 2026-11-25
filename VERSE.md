@@ -504,3 +504,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Numbers 15:28**
 
 > And the priest must make atonement for the person who sins unintentionally—when he sins unintentionally before the Lord—to make atonement for him, and he will be forgiven.
+
+## 2026-11-25 06:52 UTC
+
+**Exodus 28:3**
+
+> You are to speak to all who are specially skilled, whom I have filled with the spirit of wisdom, so that they may make Aaron’s garments to set him apart to minister as my priest.
