@@ -516,3 +516,9 @@ Updated automatically, 2-4 times a day, at random hours, via GitHub Actions.
 **Isaiah 41:14**
 
 > Don’t be afraid, despised, insignificant Jacob, men of Israel. I am helping you,” says the Lord, your Protector, the Holy One of Israel.
+
+## 2026-11-27 11:43 UTC
+
+**Joshua 10:21**
+
+> Then the whole army safely returned to Joshua at the camp in Makkedah. No one dared threaten the Israelites.
